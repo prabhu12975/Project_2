@@ -1,2 +1,3 @@
 # Project_2
-Video Game Sales and Engagement Analysis
+Video Game Sales and Engagement Analysis is created to analyze the trends, relationship, summary, performance of games, sales data and to provide best effective visualization for better understading. The csv data is utilized for data cleaning, processing and to plot various graphs. Line-Graph, Bar-Graph, KD-Graph, Scatterplot, Correlation Maps and other various graphs are plotted. PowerBI dashboard is used to display for better visualization & decision-making.SQL is used to store the processed data.EDA(Exploratory Data Analysis). Overall, this project summarizes the data cleaning, data processing and visualization for better performance.
+
